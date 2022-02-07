@@ -1,7 +1,7 @@
 ### Hey, Hi 👋
 
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Juan Carlos Valdez</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudnyeshtalekar" alt="sudnyeshtalekar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jucafly" alt="Jucafly" /> </p>
 <br />
 <a href="https://twitter.com/JuCaFly">
   <img align="left" alt="Sudnyesh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
