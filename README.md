@@ -30,7 +30,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align="center" dir="auto"> 
-    <a href="https://open.spotify.com/user/12165145036?si=5YUK8ImaTHCR8NiBP7MMJQ" rel="nofollow">   
+    <a href="https://https://open.spotify.com/user/ijjc16" rel="nofollow">   
        <img src="https://camo.githubusercontent.com/dd027385064341b9664167124757ed59246f69082acaaa134f343d7f68f9f531/68747470733a2f2f6e6f7661746f72656d2d626c61636b2d626574612e76657263656c2e6170702f6170692f73706f746966792e7079" align="center" alt="Spotify Playing" width="500" data-canonical-src="https://novatorem-black-beta.vercel.app/api/spotify.py" style="max-width: 100%;">
     </a>
 </div>
